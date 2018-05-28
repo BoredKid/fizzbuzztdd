@@ -4,7 +4,8 @@
     "description": "Un exemple de TDD avec FizzBuz",
     "main": "index.js",
     "scripts": {
-        "test": "eslint ./ && mocha"
+        "test": "eslint ./ && mocha",
+        "mocha": "mocha"
     },
     "author": "BoredKid",
     "license": "ISC",
